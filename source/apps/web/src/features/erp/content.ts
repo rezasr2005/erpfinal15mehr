@@ -14,7 +14,7 @@ export const erpContent = {
       { title: "تعریف دامنه", text: "توافق درباره‌ی اولویت‌ها، امکانات مورد نیاز و معیارهای پذیرش راهکار." },
       { title: "توسعه مرحله‌ای", text: "پیاده‌سازی در مراحل مشخص و بررسی نتیجه با کاربران بر اساس دامنه‌ی توافق‌شده." },
     ],
-    ctaTitle: "کسب‌وکار شما چه فرایندی دارد؟", ctaText: "نقطه‌ی شروع، شناخت نیاز شماست. اطلاعات تماس رسمی در صفحه‌ی تماس پس از تکمیل منتشر خواهد شد.",
+    ctaTitle: "کسب‌وکار شما چه فرایندی دارد؟", ctaText: "نقطه‌ی شروع، شناخت نیاز شماست. برای گفت‌وگو دربارهٔ فرایندهای کسب‌وکارتان، از راه‌های ارتباطی صفحهٔ تماس استفاده کنید.",
   },
   en: {
     title: "Kavian Integrated Management System", brand: "Kavian Sepanta Steel Holding", description: "Kavian Integrated Management System: custom ERP development around business workflows across different industries.",
@@ -31,6 +31,6 @@ export const erpContent = {
       { title: "Define the scope", text: "Agree on priorities, required features and acceptance criteria." },
       { title: "Develop in stages", text: "Implement defined stages and review outcomes with users against the agreed scope." },
     ],
-    ctaTitle: "How does your business work?", ctaText: "Understanding your requirements is the starting point. Official contact details will be published on the contact page once confirmed.",
+    ctaTitle: "How does your business work?", ctaText: "Understanding your requirements is the starting point. Use the contact page to discuss your business workflows with us.",
   },
 };

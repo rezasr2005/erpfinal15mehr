@@ -1,3 +1,5 @@
+> For the public website and local preview, follow `../README_FA.md` or run `../RUN_LOCAL.cmd` on Windows. Use `pnpm --filter @kavian/web dev`; the API and database are not required. The foundation instructions below cover the broader monorepo, not the public-site preview.
+
 # Kavian Platform
 
 Foundation repository for the bilingual digital platform of **Holding Foolad Kavian Sepanta**.

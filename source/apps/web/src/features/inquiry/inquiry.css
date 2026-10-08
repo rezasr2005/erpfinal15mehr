@@ -1,3 +1,14 @@
 .inquiry-terms { padding-inline-start: 22px; margin-top: 24px; display: grid; gap: 14px; color: #64717f; font-size: 14px; line-height: 2; }
 .inquiry-outline { white-space: pre-wrap; overflow-wrap: anywhere; font-family: inherit; font-size: 14px; line-height: 2.4; padding: 28px; margin-top: 28px; background: #fff; border: 1px solid #dfe4e9; border-inline-start: 3px solid #ae9364; color: #102337; }
 @media (max-width: 599px) { .inquiry-outline { padding: 20px 16px; } }
+
+.inquiry-template { margin-top: 28px; }
+.inquiry-template-label { display: block; font-weight: 700; color: #102337; }
+.inquiry-template-help { color: #64717f; line-height: 2; font-size: 14px; }
+.inquiry-template .inquiry-outline { display: block; box-sizing: border-box; width: 100%; margin-top: 16px; resize: vertical; min-height: 240px; }
+.inquiry-template-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 20px; margin-top: 16px; }
+.inquiry-copy { font: inherit; font-size: 14px; font-weight: 700; color: #fff; background: #102337; border: 1px solid #102337; padding: 12px 20px; cursor: pointer; }
+.inquiry-copy:hover { background: #243c54; }
+.inquiry-copy:disabled { opacity: .7; cursor: wait; }
+.inquiry-copy:focus-visible, .inquiry-outline:focus-visible { outline: 3px solid #ae9364; outline-offset: 3px; }
+.inquiry-copy-status { flex: 1 1 240px; margin: 0; color: #102337; font-size: 14px; line-height: 2; min-height: 28px; }

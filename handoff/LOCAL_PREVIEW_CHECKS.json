@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "locale": "fa",
+      "copy": "passed",
+      "manual_fallback": "passed",
+      "keyboard": "passed",
+      "edits_cleared_on_reload": "passed",
+      "viewports": [
+        320,
+        375,
+        768,
+        1100,
+        1440
+      ]
+    },
+    {
+      "locale": "en",
+      "copy": "passed",
+      "manual_fallback": "passed",
+      "keyboard": "passed",
+      "edits_cleared_on_reload": "passed",
+      "viewports": [
+        320,
+        375,
+        768,
+        1100,
+        1440
+      ]
+    }
+  ],
+  "page_errors": [],
+  "environment": "Chromium Linux; viewport simulation; Windows launcher not executed"
+}
