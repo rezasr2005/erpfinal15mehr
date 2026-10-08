@@ -21,6 +21,7 @@ export function ListingResults({ locale, kind, items }: Props) {
   const [group, setGroup] = useState("");
   const [priceType, setPriceType] = useState("");
   const results = items.filter(item => (!group || item.group === group) && (!priceType || ("priceType" in item && item.priceType === priceType)) && normalize(`${item.name[locale]} ${item.specifications[locale]} ${item.location[locale]}`).includes(normalize(search)));
+  const day = new Intl.DateTimeFormat(locale === "fa" ? "fa-IR" : "en-GB", { dateStyle: "medium", timeZone: "Asia/Tehran" });
   const hasFilters = Boolean(search || group || priceType);
   const number = new Intl.NumberFormat(locale);
   const date = new Intl.DateTimeFormat(locale === "fa" ? "fa-IR" : "en-GB", { dateStyle: "medium", timeStyle: "short", timeZone: "Asia/Tehran" });
@@ -39,8 +40,8 @@ export function ListingResults({ locale, kind, items }: Props) {
       <dl>
         <div><dt>{text.location}</dt><dd>{item.location[locale]}</dd></div>
         {"quantity" in item && <><div><dt>{text.quantity}</dt><dd>{number.format(item.quantity)} {item.unit[locale]}</dd></div><div><dt>{text.inventory}</dt><dd>{text[item.availability === "available" ? "available" : "confirm"]}</dd></div></>}
-        {"amount" in item && <><div><dt>{text.price}</dt><dd>{number.format(item.amount)} {text.currencies[item.currency]} / {item.unit[locale]}</dd></div><div><dt>{text.priceType}</dt><dd>{text.priceTypes[item.priceType]} · {text.tax[item.tax]}</dd></div></>}
-        <div><dt>{text.updated}</dt><dd><time dateTime={item.updatedAt}>{date.format(new Date(item.updatedAt))}</time></dd></div>
+        {"amount" in item && <><div><dt>{text[item.direction]}</dt><dd>{number.format(item.amount)} {text.currencies[item.currency]} / {item.unit[locale]}</dd></div><div><dt>{text.priceType}</dt><dd>{text.priceTypes[item.priceType]} · {text.tax[item.tax]}</dd></div></>}
+        <div><dt>{item.updatedAt.length === 10 ? text.date : text.updated}</dt><dd><time dateTime={item.updatedAt}>{item.updatedAt.length === 10 ? day.format(new Date(item.updatedAt)) : date.format(new Date(item.updatedAt))}</time></dd></div>
         <div><dt>{text.source}</dt><dd>{item.sourceUrl ? <a href={item.sourceUrl} target="_blank" rel="noopener noreferrer">{item.source[locale]} ({locale === "fa" ? "تب جدید" : "new tab"})</a> : item.source[locale]}</dd></div>
         <div><dt>{text.terms}</dt><dd>{item.terms[locale]}</dd></div>
       </dl>

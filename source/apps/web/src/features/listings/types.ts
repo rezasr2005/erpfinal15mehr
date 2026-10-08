@@ -20,6 +20,7 @@ export type InventoryItem = MarketItem & {
 };
 export type PriceItem = MarketItem & {
   sourceUrl: string;
+  direction: "buy" | "sell";
   amount: number;
   currency: "IRR" | "toman";
   priceType: "asking" | "traded" | "estimated";

@@ -1,6 +1,19 @@
 export const companyContact = {
   website: "https://www.fooladkavian.com",
   email: "info@fooladkavian.com",
+  billetTelegram: "https://t.me/fooladkavianshemsh",
+  telegram: "https://t.me/Fooladkaviansepanta97",
+  warehouseChannels: [
+    { name: { fa: "تلگرام انبار خاورشهر", en: "Khavarshahr warehouse Telegram" }, href: "https://t.me/kaviankhavarshahr403", handle: "@kaviankhavarshahr403" },
+    { name: { fa: "بلهٔ انبار خاورشهر", en: "Khavarshahr warehouse Bale" }, href: "https://ble.ir/kaviankhavarshahr97", handle: "@kaviankhavarshahr97" },
+    { name: { fa: "روبیکای انبار خاورشهر", en: "Khavarshahr warehouse Rubika" }, href: "https://rubika.ir/khavarshahr_kavian97", handle: "@khavarshahr_kavian97" },
+  ],
+  warehouseContacts: [
+    { number: "09121898819", role: { fa: "ارتباط با مدیریت — وظیفه", en: "Management — Vazifeh" } },
+    { number: "09191222761", role: { fa: "مالی انبار", en: "Warehouse finance" } },
+    { number: "09191222762", role: { fa: "مدیر داخلی هلدینگ", en: "Holding operations manager" } },
+    { number: "09191222763", role: { fa: "خرید فلزات رنگی", en: "Non-ferrous metals purchasing" } },
+  ],
   instagram: "https://www.instagram.com/fooladkaviansepantacompany/",
   officePhones: ["09191222761", "09191222762", "09191222763"],
   founderPhone: "09121898819",

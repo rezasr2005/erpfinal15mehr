@@ -1,0 +1,503 @@
+{
+  "responsive": [
+    {
+      "locale": "fa",
+      "route": "prices",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "fa",
+      "route": "prices",
+      "width": 375,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "fa",
+      "route": "prices",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "fa",
+      "route": "prices",
+      "width": 1100,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "fa",
+      "route": "prices",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "fa",
+      "route": "products",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "fa",
+      "route": "products",
+      "width": 375,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "fa",
+      "route": "products",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "fa",
+      "route": "products",
+      "width": 1100,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "fa",
+      "route": "products",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "fa",
+      "route": "contact",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "fa",
+      "route": "contact",
+      "width": 375,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "fa",
+      "route": "contact",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "fa",
+      "route": "contact",
+      "width": 1100,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "fa",
+      "route": "contact",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "fa",
+      "route": "khavarshahr",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "fa",
+      "route": "khavarshahr",
+      "width": 375,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "fa",
+      "route": "khavarshahr",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "fa",
+      "route": "khavarshahr",
+      "width": 1100,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "fa",
+      "route": "khavarshahr",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "fa",
+      "route": "sell-scrap",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "fa",
+      "route": "sell-scrap",
+      "width": 375,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "fa",
+      "route": "sell-scrap",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "fa",
+      "route": "sell-scrap",
+      "width": 1100,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "fa",
+      "route": "sell-scrap",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "fa",
+      "route": "about",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "fa",
+      "route": "about",
+      "width": 375,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "fa",
+      "route": "about",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "fa",
+      "route": "about",
+      "width": 1100,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "fa",
+      "route": "about",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "en",
+      "route": "prices",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "en",
+      "route": "prices",
+      "width": 375,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "en",
+      "route": "prices",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "en",
+      "route": "prices",
+      "width": 1100,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "en",
+      "route": "prices",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "en",
+      "route": "products",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "en",
+      "route": "products",
+      "width": 375,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "en",
+      "route": "products",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "en",
+      "route": "products",
+      "width": 1100,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "en",
+      "route": "products",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "en",
+      "route": "contact",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "en",
+      "route": "contact",
+      "width": 375,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "en",
+      "route": "contact",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "en",
+      "route": "contact",
+      "width": 1100,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "en",
+      "route": "contact",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "en",
+      "route": "khavarshahr",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "en",
+      "route": "khavarshahr",
+      "width": 375,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "en",
+      "route": "khavarshahr",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "en",
+      "route": "khavarshahr",
+      "width": 1100,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "en",
+      "route": "khavarshahr",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "en",
+      "route": "sell-scrap",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "en",
+      "route": "sell-scrap",
+      "width": 375,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "en",
+      "route": "sell-scrap",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "en",
+      "route": "sell-scrap",
+      "width": 1100,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "en",
+      "route": "sell-scrap",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "en",
+      "route": "about",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "en",
+      "route": "about",
+      "width": 375,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "en",
+      "route": "about",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "en",
+      "route": "about",
+      "width": 1100,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    },
+    {
+      "locale": "en",
+      "route": "about",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "channels": true
+    }
+  ],
+  "rates": [
+    {
+      "locale": "fa",
+      "count": 8,
+      "amounts": true,
+      "date": true,
+      "source": true,
+      "filters": true
+    },
+    {
+      "locale": "en",
+      "count": 8,
+      "amounts": true,
+      "date": true,
+      "source": true,
+      "filters": true
+    }
+  ],
+  "errors": []
+}
