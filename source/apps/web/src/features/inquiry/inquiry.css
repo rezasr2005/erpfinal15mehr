@@ -1,0 +1,3 @@
+.inquiry-terms { padding-inline-start: 22px; margin-top: 24px; display: grid; gap: 14px; color: #64717f; font-size: 14px; line-height: 2; }
+.inquiry-outline { white-space: pre-wrap; overflow-wrap: anywhere; font-family: inherit; font-size: 14px; line-height: 2.4; padding: 28px; margin-top: 28px; background: #fff; border: 1px solid #dfe4e9; border-inline-start: 3px solid #ae9364; color: #102337; }
+@media (max-width: 599px) { .inquiry-outline { padding: 20px 16px; } }

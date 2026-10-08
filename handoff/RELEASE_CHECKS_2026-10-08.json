@@ -1,0 +1,139 @@
+{
+  "pages": [
+    {
+      "path": "/fa",
+      "status": 200,
+      "metadata": "passed"
+    },
+    {
+      "path": "/fa/about",
+      "status": 200,
+      "metadata": "passed"
+    },
+    {
+      "path": "/fa/clients",
+      "status": 200,
+      "metadata": "passed"
+    },
+    {
+      "path": "/fa/contact",
+      "status": 200,
+      "metadata": "passed"
+    },
+    {
+      "path": "/fa/erp",
+      "status": 200,
+      "metadata": "passed"
+    },
+    {
+      "path": "/fa/inquiry",
+      "status": 200,
+      "metadata": "passed"
+    },
+    {
+      "path": "/fa/inventory",
+      "status": 200,
+      "metadata": "passed"
+    },
+    {
+      "path": "/fa/khavarshahr",
+      "status": 200,
+      "metadata": "passed"
+    },
+    {
+      "path": "/fa/market",
+      "status": 200,
+      "metadata": "passed"
+    },
+    {
+      "path": "/fa/prices",
+      "status": 200,
+      "metadata": "passed"
+    },
+    {
+      "path": "/fa/products",
+      "status": 200,
+      "metadata": "passed"
+    },
+    {
+      "path": "/fa/scrap",
+      "status": 200,
+      "metadata": "passed"
+    },
+    {
+      "path": "/fa/sell-scrap",
+      "status": 200,
+      "metadata": "passed"
+    },
+    {
+      "path": "/en",
+      "status": 200,
+      "metadata": "passed"
+    },
+    {
+      "path": "/en/about",
+      "status": 200,
+      "metadata": "passed"
+    },
+    {
+      "path": "/en/clients",
+      "status": 200,
+      "metadata": "passed"
+    },
+    {
+      "path": "/en/contact",
+      "status": 200,
+      "metadata": "passed"
+    },
+    {
+      "path": "/en/erp",
+      "status": 200,
+      "metadata": "passed"
+    },
+    {
+      "path": "/en/inquiry",
+      "status": 200,
+      "metadata": "passed"
+    },
+    {
+      "path": "/en/inventory",
+      "status": 200,
+      "metadata": "passed"
+    },
+    {
+      "path": "/en/khavarshahr",
+      "status": 200,
+      "metadata": "passed"
+    },
+    {
+      "path": "/en/market",
+      "status": 200,
+      "metadata": "passed"
+    },
+    {
+      "path": "/en/prices",
+      "status": 200,
+      "metadata": "passed"
+    },
+    {
+      "path": "/en/products",
+      "status": 200,
+      "metadata": "passed"
+    },
+    {
+      "path": "/en/scrap",
+      "status": 200,
+      "metadata": "passed"
+    },
+    {
+      "path": "/en/sell-scrap",
+      "status": 200,
+      "metadata": "passed"
+    }
+  ],
+  "sitemap_entries": 18,
+  "robots_sitemap": "passed",
+  "root_redirect": "passed",
+  "logo": "passed",
+  "browser_visual_review": "not repeated in this release step"
+}

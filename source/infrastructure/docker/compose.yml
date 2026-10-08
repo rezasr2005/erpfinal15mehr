@@ -1,0 +1,21 @@
+services:
+  postgres:
+    image: postgres:17-alpine
+    container_name: kavian-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-kavian}
+      POSTGRES_USER: ${POSTGRES_USER:-kavian}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-kavian}
+    ports:
+      - "${POSTGRES_PORT:-5432}:5432"
+    volumes:
+      - kavian_postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-kavian} -d ${POSTGRES_DB:-kavian}"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+volumes:
+  kavian_postgres_data:

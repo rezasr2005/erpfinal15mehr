@@ -1,0 +1,17 @@
+.erp-workflow { background: #fff; border-block: 1px solid #dfe4e9; }
+.erp-workflow-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 20px; list-style: none; padding: 0; margin: 32px 0 0; }
+.erp-workflow-grid li { border-top: 2px solid #ae9364; padding: 22px 20px; background: #f5f7f9; }
+.erp-workflow-grid h3 { font-size: 19px; margin-block: 18px 14px; line-height: 1.7; }
+.erp-workflow-grid p, .erp-adaptation p { color: #64717f; font-size: 14px; line-height: 2; }
+.erp-workflow-grid .erp-workflow-question { color: #102337; border-top: 1px solid #dfe4e9; padding-top: 16px; margin-top: 20px; }
+.erp-adaptation { margin-top: 32px; padding-inline-start: 24px; border-inline-start: 2px solid #ae9364; }
+.erp-adaptation h3 { font-size: 20px; margin-bottom: 14px; }
+.erp-adaptation p { max-width: 90ch; }
+.erp-faq-list { margin-top: 32px; border-top: 1px solid #dfe4e9; }
+.erp-faq-list details { border-bottom: 1px solid #dfe4e9; }
+.erp-faq-list summary { padding: 22px 8px; cursor: pointer; font-size: 16px; font-weight: 600; line-height: 1.8; }
+.erp-faq-list summary::marker { color: #ae9364; }
+.erp-faq-list details[open] summary { color: #102337; }
+.erp-faq-list details p { padding: 0 24px 24px; color: #64717f; font-size: 14px; line-height: 2; max-width: 90ch; }
+@media (max-width: 1099px) { .erp-workflow-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 599px) { .erp-workflow-grid { grid-template-columns: minmax(0, 1fr); } }

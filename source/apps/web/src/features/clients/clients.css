@@ -1,0 +1,6 @@
+.clients-groups { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 20px; margin-top: 32px; }
+.clients-list { list-style: none; padding: 0; margin: 32px 0 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+.clients-list li { padding: 24px; background: #fff; border: 1px solid #dce2e8; font-size: 15px; line-height: 2; }
+.home-page .clients-intro { margin-block: 20px 28px; max-width: 80ch; color: var(--muted); line-height: 2; font-size: 14px; }
+@media (max-width: 1099px) { .clients-groups, .clients-list { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 599px) { .clients-groups, .clients-list { grid-template-columns: 1fr; gap: 14px; } }
