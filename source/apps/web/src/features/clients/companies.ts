@@ -37,10 +37,10 @@ export const clientCompanies: ClientCompany[] = [
     }
   },
   {
-    "id": "iran-machine",
+    "id": "machine-sazi-tabriz",
     "name": {
-      "fa": "کارخانه ماشین‌سازی ایران",
-      "en": "Iran Machine Manufacturing"
+      "fa": "کارخانه ماشین‌سازی تبریز",
+      "en": "Machine Sazi Tabriz"
     }
   },
   {
