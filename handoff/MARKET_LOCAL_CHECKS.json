@@ -1,0 +1,35 @@
+{
+  "results": [
+    {
+      "locale": "fa",
+      "inventory": "passed",
+      "prices": "passed",
+      "demo_filters": "passed",
+      "demo_details": "passed",
+      "empty_results": "passed",
+      "viewports": [
+        320,
+        375,
+        768,
+        1100,
+        1440
+      ]
+    },
+    {
+      "locale": "en",
+      "inventory": "passed",
+      "prices": "passed",
+      "demo_filters": "passed",
+      "demo_details": "passed",
+      "empty_results": "passed",
+      "viewports": [
+        320,
+        375,
+        768,
+        1100,
+        1440
+      ]
+    }
+  ],
+  "page_errors": []
+}

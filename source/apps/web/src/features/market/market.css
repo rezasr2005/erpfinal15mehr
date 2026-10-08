@@ -22,3 +22,12 @@
   .market-detail-grid { grid-template-columns: minmax(0, 1fr); gap: 24px; }
   .market-fields, .erp-steps { grid-template-columns: minmax(0, 1fr); }
 }
+
+.opportunity-explorer { margin-top: 32px; }
+.opportunity-demo { border-inline-start: 4px solid #ae9364; background: #f3eee4; padding: 24px; margin-bottom: 24px; }
+.opportunity-demo h3 { font-size: 20px; line-height: 1.7; }
+.opportunity-demo p, .opportunity-explorer details p { font-size: 14px; line-height: 2; margin-top: 12px; }
+.opportunity-explorer .listing-card h3 { font-size: 22px; line-height: 1.7; }
+.opportunity-explorer summary { cursor: pointer; font-size: 14px; font-weight: 600; padding-block: 12px; }
+.opportunity-explorer summary:focus-visible { outline: 3px solid #ae9364; outline-offset: 3px; }
+.market-rate-links { display: flex; gap: 16px; flex-wrap: wrap; margin-top: 24px; }
