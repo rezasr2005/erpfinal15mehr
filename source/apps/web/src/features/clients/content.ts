@@ -12,7 +12,6 @@ export const clientsContent = {
     ],
     namesTitle: "نمونهٔ نام‌های درج‌شده در کاتالوگ",
     namesIntro: "این فهرست بخشی از سابقهٔ همکاری معرفی‌شده در کاتالوگ است؛ وضعیت فعلی همکاری‌ها و اطلاعات پروژه‌ها در نسخهٔ نهایی تکمیل می‌شود.",
-    names: ["شرکت هامون نایزه", "کارخانه تهیه و توزیع مواد ریخته‌گری و قطعات صنعتی ایران (سودیکو)", "شرکت فولادسازان جم", "کارخانه تراکتورسازی ایران", "کارخانه ماشین‌سازی ایران", "شرکت غلتک‌سازان سپاهان", "کارخانه فولاد مازندران", "شرکت فولاد کویر دامغان", "شرکت پیمان پروفیل آسیا", "شرکت ماهان آلیاژ پارس", "شرکت کلاچ قزوین", "شرکت صنایع ریخته‌گری فولاد طبرستان"],
     ctaTitle: "برای گفت‌وگو دربارهٔ همکاری", ctaText: "نوع محصول یا مادهٔ اولیه، مقدار و شرایط تحویل مورد نظر را با دفتر مرکزی مطرح کنید.", contact: "تماس با دفتر مرکزی", about: "درباره مجموعه",
   },
   en: {
@@ -28,7 +27,6 @@ export const clientsContent = {
     ],
     namesTitle: "Selected names from the catalogue",
     namesIntro: "These names represent part of the cooperation history described in the catalogue. Current relationships and project details will be updated in the final version.",
-    names: ["Hamoun Nayzeh", "Iran Foundry Materials & Industrial Parts (Soudico)", "Fooladsazan Jam", "Iran Tractor Manufacturing", "Iran Machine Manufacturing", "Ghaltaksazan Sepahan", "Mazandaran Steel", "Kavir Damghan Steel", "Peyman Profile Asia", "Mahan Alloy Pars", "Qazvin Clutch", "Tabarestan Steel Foundry Industries"],
     ctaTitle: "Discuss a potential cooperation", ctaText: "Share your product or raw material type, quantity and delivery requirements with the head office.", contact: "Contact the head office", about: "About the group",
   },
 };

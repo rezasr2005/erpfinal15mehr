@@ -1,0 +1,86 @@
+{
+  "scope": "Layout preparation only; logo download and visual verification are blocked by network policy.",
+  "checks": [
+    {
+      "locale": "fa",
+      "width": 320,
+      "status": 200,
+      "companyCount": 12,
+      "overflow": false,
+      "activeLogos": 0
+    },
+    {
+      "locale": "fa",
+      "width": 375,
+      "status": 200,
+      "companyCount": 12,
+      "overflow": false,
+      "activeLogos": 0
+    },
+    {
+      "locale": "fa",
+      "width": 768,
+      "status": 200,
+      "companyCount": 12,
+      "overflow": false,
+      "activeLogos": 0
+    },
+    {
+      "locale": "fa",
+      "width": 1100,
+      "status": 200,
+      "companyCount": 12,
+      "overflow": false,
+      "activeLogos": 0
+    },
+    {
+      "locale": "fa",
+      "width": 1440,
+      "status": 200,
+      "companyCount": 12,
+      "overflow": false,
+      "activeLogos": 0
+    },
+    {
+      "locale": "en",
+      "width": 320,
+      "status": 200,
+      "companyCount": 12,
+      "overflow": false,
+      "activeLogos": 0
+    },
+    {
+      "locale": "en",
+      "width": 375,
+      "status": 200,
+      "companyCount": 12,
+      "overflow": false,
+      "activeLogos": 0
+    },
+    {
+      "locale": "en",
+      "width": 768,
+      "status": 200,
+      "companyCount": 12,
+      "overflow": false,
+      "activeLogos": 0
+    },
+    {
+      "locale": "en",
+      "width": 1100,
+      "status": 200,
+      "companyCount": 12,
+      "overflow": false,
+      "activeLogos": 0
+    },
+    {
+      "locale": "en",
+      "width": 1440,
+      "status": 200,
+      "companyCount": 12,
+      "overflow": false,
+      "activeLogos": 0
+    }
+  ],
+  "errors": []
+}
