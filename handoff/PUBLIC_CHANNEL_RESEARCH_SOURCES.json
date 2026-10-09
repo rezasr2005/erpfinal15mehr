@@ -32,5 +32,17 @@
   "analysisSource": "https://t.me/kaviankhavarshahr403/400",
   "whatsappSource": "https://t.me/kaviankhavarshahr403/396",
   "rateConflict": "Owner supplied 690000/680000/... with payment after 3 working days; channel image 414 shows 710000/697000/... and cash payment. Preserve owner table; present dated channel archive separately.",
-  "imageTextCorrection": "Message 412 has 67000 for special cut scrap; poster 414 clearly shows 670000. Use poster as the archived source, never silently change message text."
+  "imageTextCorrection": "Message 412 has 67000 for special cut scrap; poster 414 clearly shows 670000. Use poster as the archived source, never silently change message text.",
+  "secondaryCompanyDirectory": {
+    "sourceUrl": "https://hacinhaseb.com/company/فولاد-کاویان-سپنتا/",
+    "observedOn": "2026-10-09",
+    "pageSha256": "d132d2519ea342c720e36ee61b81e4fd09b8bd70dfe20cf8512980f98c2e3b6e",
+    "reportedNationalId": "14007590456",
+    "reportedRegistrationNumber": "526290",
+    "reportedRegisteredAddress": "استان تهران، شهرستان شمیرانات، بخش مرکزی، شهر تجریش، شهرک نفت، خیابان مسجد، کوچه مسجد، پلاک ۶، طبقهٔ ۳",
+    "reportedAddressResolutionDate": "1403/07/25",
+    "status": "Secondary public directory only. Official registry matching and correspondence to the project company are not verified. Not applied to site contact details; registered and operational addresses may differ.",
+    "openingHours": "Not provided",
+    "warehousePhotographs": "Not provided"
+  }
 }
