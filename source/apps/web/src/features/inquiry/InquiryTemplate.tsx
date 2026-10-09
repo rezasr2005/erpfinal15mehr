@@ -1,5 +1,7 @@
 "use client";
 
+import { companyContact } from "@/config/company";
+
 import { useId, useRef, useState } from "react";
 import type { SupportedLocale } from "@kavian/config";
 
@@ -11,6 +13,7 @@ const messages = {
 export function InquiryTemplate({ locale, template }: { locale: SupportedLocale; template: string }) {
   const id = useId();
   const input = useRef<HTMLTextAreaElement>(null);
+  const [request, setRequest] = useState(template);
   const [status, setStatus] = useState("");
   const [copying, setCopying] = useState(false);
   const text = messages[locale];
@@ -35,10 +38,13 @@ export function InquiryTemplate({ locale, template }: { locale: SupportedLocale;
   return <div className="inquiry-template">
     <label className="inquiry-template-label" htmlFor={id}>{text.label}</label>
     <p id={`${id}-help`} className="inquiry-template-help">{text.help}</p>
-    <textarea ref={input} id={id} aria-describedby={`${id}-help`} className="inquiry-outline" defaultValue={template} rows={9} onChange={() => setStatus("")} />
+    <textarea ref={input} id={id} aria-describedby={`${id}-help`} className="inquiry-outline" value={request} rows={9} onChange={(event) => { setRequest(event.target.value); setStatus(""); }} />
     <div className="inquiry-template-actions">
       <button className="inquiry-copy" type="button" disabled={copying} onClick={copy}>{copying ? text.copying : text.copy}</button>
+      <a className="inquiry-send" href={`mailto:${companyContact.email}?subject=${encodeURIComponent(locale === "fa" ? "استعلام — فولاد کاویان سپنتا" : "Pricing inquiry — Kavian Sepanta")}&body=${encodeURIComponent(request)}`}>{locale === "fa" ? "باز کردن پیش‌نویس ایمیل" : "Open email draft"}</a>
+      <a className="inquiry-send" href={`${companyContact.whatsapp}?text=${encodeURIComponent(request)}`} target="_blank" rel="noopener noreferrer">{locale === "fa" ? "آماده‌سازی پیام واتساپ (تب جدید)" : "Prepare WhatsApp message (new tab)"}</a>
       <p className="inquiry-copy-status" role="status" aria-live="polite">{status}</p>
     </div>
+    <p className="inquiry-template-help">{locale === "fa" ? "با انتخاب ایمیل یا واتساپ، متن ویرایش‌شده در برنامهٔ مربوط باز می‌شود؛ ارسال نهایی با شماست. این سایت درخواست را ذخیره نمی‌کند و شمارهٔ پیگیری صادر نمی‌کند." : "Choosing email or WhatsApp opens your edited text in that application; you send it there. This website does not store requests or issue tracking numbers."}</p>
   </div>;
 }

@@ -1,0 +1,36 @@
+{
+  "observedOn": "2026-10-09",
+  "announcements": [
+    {
+      "id": "scrap-rates-14050714",
+      "sourceUrl": "https://t.me/kaviankhavarshahr403/414",
+      "publishedAt": "2026-10-06T06:26:34+00:00",
+      "localPath": "/announcements/scrap-rates-14050714.jpg",
+      "width": 534,
+      "height": 800,
+      "sha256": "101d56c8161052dc0b29b259d7536cc53d909ce9953bb92e65e88482f501dc5d"
+    },
+    {
+      "id": "billet-3sp-14050715",
+      "sourceUrl": "https://t.me/kaviankhavarshahr403/417",
+      "publishedAt": "2026-10-07T06:29:02+00:00",
+      "localPath": "/announcements/billet-3sp-14050715.jpg",
+      "width": 533,
+      "height": 800,
+      "sha256": "92e323749745338254161a6b1e4a2d0e76678c35158b9fdec97900cb3e95ad7f"
+    },
+    {
+      "id": "slab-14050715",
+      "sourceUrl": "https://t.me/kaviankhavarshahr403/418",
+      "publishedAt": "2026-10-07T06:59:06+00:00",
+      "localPath": "/announcements/slab-14050715.jpg",
+      "width": 450,
+      "height": 800,
+      "sha256": "8518994f06fc97dacaafac9d453d6f779922d87cd13d6cc5406875ad9bb94d98"
+    }
+  ],
+  "analysisSource": "https://t.me/kaviankhavarshahr403/400",
+  "whatsappSource": "https://t.me/kaviankhavarshahr403/396",
+  "rateConflict": "Owner supplied 690000/680000/... with payment after 3 working days; channel image 414 shows 710000/697000/... and cash payment. Preserve owner table; present dated channel archive separately.",
+  "imageTextCorrection": "Message 412 has 67000 for special cut scrap; poster 414 clearly shows 670000. Use poster as the archived source, never silently change message text."
+}

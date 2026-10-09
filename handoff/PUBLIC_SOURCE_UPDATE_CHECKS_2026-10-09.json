@@ -1,0 +1,122 @@
+{
+  "checkedAt": "2026-10-09T07:45:32.666379+03:30",
+  "mode": "Production next start after final build",
+  "build": "passed: 31 static pages; TypeScript passed",
+  "lint": "passed",
+  "browserObservations": 60,
+  "widths": [
+    320,
+    375,
+    768,
+    1100,
+    1440
+  ],
+  "routes": [
+    "/en/contact",
+    "/en/inquiry",
+    "/en/inventory",
+    "/en/khavarshahr",
+    "/en/market",
+    "/en/prices",
+    "/fa/contact",
+    "/fa/inquiry",
+    "/fa/inventory",
+    "/fa/khavarshahr",
+    "/fa/market",
+    "/fa/prices"
+  ],
+  "pageErrors": [],
+  "failures": [],
+  "semanticChecks": [
+    {
+      "name": "fa source announcements",
+      "passed": true
+    },
+    {
+      "name": "fa commentary source",
+      "passed": true
+    },
+    {
+      "name": "fa exact primary posts",
+      "passed": true
+    },
+    {
+      "name": "fa owner prices retained",
+      "passed": true
+    },
+    {
+      "name": "fa archived rate poster",
+      "passed": true
+    },
+    {
+      "name": "fa no current stock fabricated",
+      "passed": true
+    },
+    {
+      "name": "fa two archived supply announcements",
+      "passed": true
+    },
+    {
+      "name": "fa mail draft preserves edited text",
+      "passed": true
+    },
+    {
+      "name": "fa WhatsApp recipient and text",
+      "passed": true
+    },
+    {
+      "name": "fa clipboard still works",
+      "passed": true
+    },
+    {
+      "name": "en source announcements",
+      "passed": true
+    },
+    {
+      "name": "en commentary source",
+      "passed": true
+    },
+    {
+      "name": "en exact primary posts",
+      "passed": true
+    },
+    {
+      "name": "en owner prices retained",
+      "passed": true
+    },
+    {
+      "name": "en archived rate poster",
+      "passed": true
+    },
+    {
+      "name": "en no current stock fabricated",
+      "passed": true
+    },
+    {
+      "name": "en two archived supply announcements",
+      "passed": true
+    },
+    {
+      "name": "en mail draft preserves edited text",
+      "passed": true
+    },
+    {
+      "name": "en WhatsApp recipient and text",
+      "passed": true
+    },
+    {
+      "name": "en clipboard still works",
+      "passed": true
+    }
+  ],
+  "images": "All original local posters loaded; original dimensions and SHA256 match source manifest.",
+  "imageDiagnosis": "Initial responsive optimized-poster candidates did not initiate loading at 1440 in Chromium. Direct local original files loaded under the same conditions. Set unoptimized for these three posters only; all 60 affected page/viewport checks passed afterward.",
+  "sourceCapture": "All three public previews captured (45 posts); older warehouse page before395 captured (16 posts).",
+  "limitations": [
+    "No mail or WhatsApp messages sent during testing. Draft URL recipients and edited text verified, not delivery.",
+    "No remote ERP login or internal feature validation: public ERP endpoint returned 502.",
+    "Original owner-supplied active rate table retained; conflicting channel poster presented as dated archive.",
+    "Source poster images are not certified photographs of current warehouse facilities.",
+    "No website deployment performed."
+  ]
+}

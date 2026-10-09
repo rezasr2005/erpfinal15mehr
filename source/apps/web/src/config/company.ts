@@ -1,6 +1,8 @@
 export const companyContact = {
   website: "https://www.fooladkavian.com",
   email: "info@fooladkavian.com",
+  // Public warehouse-channel post 396 names this number for WhatsApp.
+  whatsapp: "https://wa.me/989191222762",
   billetTelegram: "https://t.me/fooladkavianshemsh",
   telegram: "https://t.me/Fooladkaviansepanta97",
   warehouseChannels: [

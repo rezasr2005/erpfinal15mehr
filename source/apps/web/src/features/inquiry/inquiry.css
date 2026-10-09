@@ -12,3 +12,7 @@
 .inquiry-copy:disabled { opacity: .7; cursor: wait; }
 .inquiry-copy:focus-visible, .inquiry-outline:focus-visible { outline: 3px solid #ae9364; outline-offset: 3px; }
 .inquiry-copy-status { flex: 1 1 240px; margin: 0; color: #102337; font-size: 14px; line-height: 2; min-height: 28px; }
+
+.inquiry-send { display: inline-block; color: #102337; background: #fff; border: 1px solid #102337; padding: 12px 20px; font-size: 14px; font-weight: 700; text-align: center; }
+.inquiry-send:hover { background: #eef2f6; }
+.inquiry-send:focus-visible { outline: 3px solid #ae9364; outline-offset: 3px; }
