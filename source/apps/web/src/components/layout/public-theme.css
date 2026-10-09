@@ -1,0 +1,39 @@
+/* Shared visual language with erp.kavianholding.ir's public landing page. */
+.public-shell .public-header { background: #0f172a; color: #f8fafc; border-top-color: #020617; border-bottom-color: #334155; }
+.public-shell .desktop-navigation { border-top-color: #334155; }
+.public-shell .brand-copy > span, .public-shell .language-switcher a { color: #cbd5e1; }
+.public-shell .language-switcher a:hover, .public-shell .main-nav a:hover, .public-shell .main-nav a[aria-current="page"] { color: #fbbf24; }
+.public-shell .main-nav a[aria-current="page"] { border-bottom-color: #fbbf24; }
+.public-shell .brand-mark, .public-shell .footer-brand-mark { border-radius: 10px; overflow: hidden; }
+.public-shell .quote-link, .public-shell .home-link:not(.home-link-secondary), .public-shell .inquiry-copy, .public-shell .announcement-body .announcement-inquiry { background: var(--color-primary); border-color: var(--color-primary); color: #fff; border-radius: var(--radius-button); }
+.public-shell .quote-link:hover, .public-shell .home-link:not(.home-link-secondary):hover, .public-shell .inquiry-copy:hover, .public-shell .announcement-body .announcement-inquiry:hover { background: var(--color-primary-hover); border-color: var(--color-primary-hover); }
+.public-shell .menu-toggle { border-radius: var(--radius-button); background: #1e293b; border-color: #475569; color: #f8fafc; }
+.public-shell .mobile-panel { background: #0f172a; border-color: #334155; color: #f8fafc; }
+.public-shell .home-link-secondary, .public-shell .inquiry-send, .public-shell .listing-summary button { border-radius: var(--radius-button); }
+.public-shell .hero-copy h1 { font-size: clamp(30px, 3.3vw, 46px); font-weight: 700; }
+.public-shell .market-hero h1 { font-size: clamp(28px, 3vw, 40px); font-weight: 700; }
+.public-shell .home-page h2 { font-size: clamp(22px, 2.2vw, 30px); font-weight: 700; }
+.public-shell .market-hero { padding-block: 40px; }
+.public-shell .home-section { padding-block: 48px; }
+.public-shell .home-section-heading { gap: 32px; margin-bottom: 28px; }
+.public-shell .hero-grid { padding-block: 48px; gap: 40px; }
+.public-shell .sector-card, .public-shell .listing-card, .public-shell .announcement-card, .public-shell .client-card, .public-shell .listing-empty { background: #fff; border-radius: var(--radius-card); box-shadow: 0 2px 6px rgb(15 23 42 / 4%); }
+.public-shell .announcement-card { overflow: hidden; }
+.public-shell .listing-card h2, .public-shell .sector-card h3 { font-size: 20px; }
+.public-shell .listing-filters, .public-shell .inquiry-context, .public-shell .market-empty, .public-shell .listing-notice, .public-shell .tools-grid { border-radius: var(--radius-card); }
+.public-shell .listing-filters input, .public-shell .listing-filters select, .public-shell .inquiry-outline { border-radius: var(--radius-button); }
+.public-shell .listing-inquiry { color: var(--color-primary-hover); }
+.public-shell .listing-inquiry:hover { text-decoration: underline; text-underline-offset: 4px; }
+.public-shell .market-status { border-radius: 6px; }
+.public-shell .home-cta { background: #0f172a; }
+.public-shell .public-footer { border-top-color: #f59e0b; }
+.public-shell .footer-eyebrow { color: #fbbf24; }
+.public-shell .inquiry-template-actions { align-items: stretch; }
+@media (max-width: 699px) {
+  .public-shell .market-hero { padding-block: 28px; }
+  .public-shell .home-section { padding-block: 32px; }
+  .public-shell .home-section-heading { gap: 16px; }
+  .public-shell .hero-grid { gap: 28px; padding-block: 32px; }
+  .public-shell .hero-copy h1 { font-size: clamp(28px, 7vw, 36px); }
+  .public-shell .inquiry-template-actions .inquiry-copy, .public-shell .inquiry-send { width: 100%; }
+}

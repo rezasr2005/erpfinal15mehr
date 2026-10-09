@@ -11,25 +11,25 @@
 .scrap-section { padding-block: 64px; }
 .scrap-page .scrap-section-intro { font-size: 14px; line-height: 2; color: var(--muted); max-width: 85ch; margin-top: 16px; }
 .scrap-groups { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 22px; margin-top: 32px; }
-.scrap-group-card { display: flex; flex-direction: column; padding: 28px; background: #fff; border: 1px solid #dce2e8; }
-.scrap-group-number { color: #7a6847; font-size: 12px; margin-bottom: 32px; }
+.scrap-group-card { display: flex; flex-direction: column; padding: 28px; background: #fff; border: 1px solid var(--color-border); }
+.scrap-group-number { color: var(--color-accent); font-size: 12px; margin-bottom: 32px; }
 .scrap-group-card h3 { font-size: 22px; line-height: 1.6; font-weight: 600; }
 .scrap-group-card p { color: var(--muted); line-height: 2; font-size: 14px; margin-block: 14px 28px; }
-.scrap-group-card dl { margin: auto 0 0; border-top: 1px solid #e4e9ed; padding-top: 20px; }
+.scrap-group-card dl { margin: auto 0 0; border-top: 1px solid var(--color-border); padding-top: 20px; }
 .scrap-group-card dt { font-size: 12px; font-weight: 600; margin-bottom: 8px; }
 .scrap-group-card dd { margin: 0; color: var(--muted); font-size: 13px; line-height: 2; }
-.scrap-guide { background: #e9edf0; border-block: 1px solid #dae1e7; padding-block: 48px; }
+.scrap-guide { background: var(--color-background); border-block: 1px solid var(--color-border); padding-block: 48px; }
 .scrap-steps { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 32px; list-style: none; counter-reset: scrap-step; padding: 0; margin: 32px 0 0; }
-.scrap-steps li { counter-increment: scrap-step; border-top: 1px solid #cbd4dc; padding-top: 22px; }
-.scrap-steps li::before { content: counter(scrap-step, decimal-leading-zero); display: block; font-size: 12px; color: #7a6847; margin-bottom: 16px; }
+.scrap-steps li { counter-increment: scrap-step; border-top: 1px solid #cbd5e1; padding-top: 22px; }
+.scrap-steps li::before { content: counter(scrap-step, decimal-leading-zero); display: block; font-size: 12px; color: var(--color-accent); margin-bottom: 16px; }
 .scrap-steps h3 { font-size: 18px; line-height: 1.6; font-weight: 600; }
 .scrap-steps p { margin-top: 12px; font-size: 14px; line-height: 2; color: var(--muted); }
 .scrap-cta { display: flex; align-items: center; justify-content: space-between; gap: 32px; }
 .scrap-actions { display: flex; flex-wrap: wrap; gap: 12px; flex-shrink: 0; }
 .scrap-button { display: inline-flex; align-items: center; gap: 24px; padding: 14px 20px; background: var(--navy); color: #fff; border: 1px solid var(--navy); font-size: 14px; line-height: 1.6; }
 .scrap-button:hover { background: #294159; }
-.scrap-button-secondary { background: transparent; color: var(--navy); border-color: #bdc6ce; }
-.scrap-button-secondary:hover { background: #e9edf0; }
+.scrap-button-secondary { background: transparent; color: var(--navy); border-color: #cbd5e1; }
+.scrap-button-secondary:hover { background: var(--color-background); }
 [dir="rtl"] .scrap-button > span { transform: scaleX(-1); }
 @media (max-width: 1099px) {
   .scrap-group-card { padding: 22px; }

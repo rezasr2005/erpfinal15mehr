@@ -2,7 +2,7 @@ export const inquiryContent = {
   fa: {
     title: "استعلام قیمت", brand: "هلدینگ فولاد کاویان سپنتا", description: "راهنمای آماده‌سازی مشخصات محصول یا ضایعات، مقدار و شرایط تحویل برای استعلام قیمت.",
     eyebrow: "راهنمای آماده‌سازی درخواست", intro: "پیش از گفت‌وگو درباره‌ی قیمت، نیاز خود را روشن کنید. این راهنما کمک می‌کند اطلاعات لازم را یک‌جا آماده داشته باشید.",
-    status: "برای پیگیری استعلام، متن درخواست را آماده کنید و از راه‌های تماس دفتر مرکزی استفاده کنید. این صفحه درخواست را ارسال یا ذخیره نمی‌کند.",
+    status: "متن درخواست را در فرم پایین تکمیل کنید؛ سپس پیش‌نویس ایمیل یا واتساپ را باز کنید. ارسال نهایی در برنامهٔ مقصد انجام می‌شود و درخواست در سایت ذخیره نمی‌شود.",
     detailsTitle: "چه اطلاعاتی آماده کنید؟", detailsIntro: "اگر جزئیاتی را نمی‌دانید، آن را نامشخص اعلام کنید تا در بررسی اولیه روشن شود.",
     details: [
       { title: "موضوع و مشخصات", text: "نوع محصول، ابعاد، ضخامت، گرید یا استاندارد مورد نیاز را مشخص کنید. برای ضایعات، جنس، منشأ، وضعیت تفکیک و مواد همراه را توضیح دهید." },
@@ -17,7 +17,7 @@ export const inquiryContent = {
   en: {
     title: "Request a quote", brand: "Kavian Sepanta Steel Holding", description: "Prepare product or scrap specifications, quantities and delivery requirements for a pricing inquiry.",
     eyebrow: "Prepare your requirements", intro: "Clarify your requirements before discussing prices. This guide helps you gather the relevant details in one place.",
-    status: "Prepare your request and use the head office contact channels to follow up. This page does not submit or save your request.",
+    status: "Complete the request below, then open an email or WhatsApp draft. Send it in the destination app; the request is not stored on this website.",
     detailsTitle: "What should you prepare?", detailsIntro: "If a detail is unknown, mark it as unspecified so it can be clarified during the initial review.",
     details: [
       { title: "Subject & specifications", text: "Identify the product type, dimensions, thickness, grade or required standard. For scrap, describe material, origin, separation and accompanying materials." },

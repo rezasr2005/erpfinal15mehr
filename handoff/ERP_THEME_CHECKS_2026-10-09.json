@@ -1,0 +1,1112 @@
+{
+  "checks": [
+    {
+      "locale": "fa",
+      "width": 375,
+      "path": "",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 375,
+      "path": "market",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 375,
+      "path": "erp",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 375,
+      "path": "products",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 375,
+      "path": "scrap",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 375,
+      "path": "sell-scrap",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 375,
+      "path": "inventory",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 375,
+      "path": "prices",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 375,
+      "path": "inquiry",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 375,
+      "path": "khavarshahr",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 375,
+      "path": "clients",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 375,
+      "path": "about",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 375,
+      "path": "contact",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 768,
+      "path": "",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 768,
+      "path": "market",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 768,
+      "path": "erp",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 768,
+      "path": "products",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 768,
+      "path": "scrap",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 768,
+      "path": "sell-scrap",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 768,
+      "path": "inventory",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 768,
+      "path": "prices",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 768,
+      "path": "inquiry",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 768,
+      "path": "khavarshahr",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 768,
+      "path": "clients",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 768,
+      "path": "about",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 768,
+      "path": "contact",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 1440,
+      "path": "",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 1440,
+      "path": "market",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 1440,
+      "path": "erp",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 1440,
+      "path": "products",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 1440,
+      "path": "scrap",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 1440,
+      "path": "sell-scrap",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 1440,
+      "path": "inventory",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 1440,
+      "path": "prices",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 1440,
+      "path": "inquiry",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 1440,
+      "path": "khavarshahr",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 1440,
+      "path": "clients",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 1440,
+      "path": "about",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "fa",
+      "width": 1440,
+      "path": "contact",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 375,
+      "path": "",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 375,
+      "path": "market",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 375,
+      "path": "erp",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 375,
+      "path": "products",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 375,
+      "path": "scrap",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 375,
+      "path": "sell-scrap",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 375,
+      "path": "inventory",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 375,
+      "path": "prices",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 375,
+      "path": "inquiry",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 375,
+      "path": "khavarshahr",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 375,
+      "path": "clients",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 375,
+      "path": "about",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 375,
+      "path": "contact",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 768,
+      "path": "",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 768,
+      "path": "market",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 768,
+      "path": "erp",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 768,
+      "path": "products",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 768,
+      "path": "scrap",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 768,
+      "path": "sell-scrap",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 768,
+      "path": "inventory",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 768,
+      "path": "prices",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 768,
+      "path": "inquiry",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 768,
+      "path": "khavarshahr",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 768,
+      "path": "clients",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 768,
+      "path": "about",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 768,
+      "path": "contact",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 1440,
+      "path": "",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 1440,
+      "path": "market",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 1440,
+      "path": "erp",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 1440,
+      "path": "products",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 1440,
+      "path": "scrap",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 1440,
+      "path": "sell-scrap",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 1440,
+      "path": "inventory",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 1440,
+      "path": "prices",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 1440,
+      "path": "inquiry",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 1440,
+      "path": "khavarshahr",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 1440,
+      "path": "clients",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 1440,
+      "path": "about",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    },
+    {
+      "locale": "en",
+      "width": 1440,
+      "path": "contact",
+      "status": 200,
+      "overflow": false,
+      "font": "vazirmatn, \"vazirmatn Fallback\", system-ui, sans-serif",
+      "header": "rgb(15, 23, 42)",
+      "images": []
+    }
+  ],
+  "fonts": [
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:3000/_next/static/media/Vazirmatn_Variable-s.p.3knf6dhh8xxk6.woff2",
+      "status": 200
+    }
+  ],
+  "mobile": {
+    "color": "rgb(248, 250, 252)",
+    "background": "rgb(15, 23, 42)"
+  },
+  "fontLoaded": true,
+  "errors": [],
+  "date": "2026-10-09",
+  "reference": "https://erp.kavianholding.ir/",
+  "websitePublished": false,
+  "contextualInquiryChecks": 94
+}
