@@ -16,3 +16,10 @@
 .inquiry-send { display: inline-block; color: #102337; background: #fff; border: 1px solid #102337; padding: 12px 20px; font-size: 14px; font-weight: 700; text-align: center; }
 .inquiry-send:hover { background: #eef2f6; }
 .inquiry-send:focus-visible { outline: 3px solid #ae9364; outline-offset: 3px; }
+
+.inquiry-context { border-inline-start: 3px solid #ae9364; background: #eef2f6; padding: 20px 24px; margin-top: 24px; }
+.inquiry-context h3 { font-size: 20px; line-height: 1.8; }
+.inquiry-context p { font-size: 14px; line-height: 2; margin-block: 12px; }
+.inquiry-context a { text-decoration: underline; text-underline-offset: 4px; font-size: 14px; }
+
+#request-template { scroll-margin-top: 24px; }

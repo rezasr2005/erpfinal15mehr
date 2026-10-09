@@ -1,0 +1,384 @@
+{
+  "checks": [
+    {
+      "name": "fa khavarshahr-14050714-1 contextual request",
+      "passed": true
+    },
+    {
+      "name": "fa khavarshahr-14050714-1 required quantity stays blank",
+      "passed": true
+    },
+    {
+      "name": "fa khavarshahr-14050714-1 noindex preserved",
+      "passed": true
+    },
+    {
+      "name": "fa khavarshahr-14050714-2 contextual request",
+      "passed": true
+    },
+    {
+      "name": "fa khavarshahr-14050714-2 required quantity stays blank",
+      "passed": true
+    },
+    {
+      "name": "fa khavarshahr-14050714-2 noindex preserved",
+      "passed": true
+    },
+    {
+      "name": "fa khavarshahr-14050714-3 contextual request",
+      "passed": true
+    },
+    {
+      "name": "fa khavarshahr-14050714-3 required quantity stays blank",
+      "passed": true
+    },
+    {
+      "name": "fa khavarshahr-14050714-3 noindex preserved",
+      "passed": true
+    },
+    {
+      "name": "fa khavarshahr-14050714-4 contextual request",
+      "passed": true
+    },
+    {
+      "name": "fa khavarshahr-14050714-4 required quantity stays blank",
+      "passed": true
+    },
+    {
+      "name": "fa khavarshahr-14050714-4 noindex preserved",
+      "passed": true
+    },
+    {
+      "name": "fa khavarshahr-14050714-5 contextual request",
+      "passed": true
+    },
+    {
+      "name": "fa khavarshahr-14050714-5 required quantity stays blank",
+      "passed": true
+    },
+    {
+      "name": "fa khavarshahr-14050714-5 noindex preserved",
+      "passed": true
+    },
+    {
+      "name": "fa khavarshahr-14050714-6 contextual request",
+      "passed": true
+    },
+    {
+      "name": "fa khavarshahr-14050714-6 required quantity stays blank",
+      "passed": true
+    },
+    {
+      "name": "fa khavarshahr-14050714-6 noindex preserved",
+      "passed": true
+    },
+    {
+      "name": "fa khavarshahr-14050714-7 contextual request",
+      "passed": true
+    },
+    {
+      "name": "fa khavarshahr-14050714-7 required quantity stays blank",
+      "passed": true
+    },
+    {
+      "name": "fa khavarshahr-14050714-7 noindex preserved",
+      "passed": true
+    },
+    {
+      "name": "fa khavarshahr-14050714-8 contextual request",
+      "passed": true
+    },
+    {
+      "name": "fa khavarshahr-14050714-8 required quantity stays blank",
+      "passed": true
+    },
+    {
+      "name": "fa khavarshahr-14050714-8 noindex preserved",
+      "passed": true
+    },
+    {
+      "name": "fa billet-3sp-14050715 contextual request",
+      "passed": true
+    },
+    {
+      "name": "fa billet-3sp-14050715 required quantity stays blank",
+      "passed": true
+    },
+    {
+      "name": "fa billet-3sp-14050715 noindex preserved",
+      "passed": true
+    },
+    {
+      "name": "fa slab-14050715 contextual request",
+      "passed": true
+    },
+    {
+      "name": "fa slab-14050715 required quantity stays blank",
+      "passed": true
+    },
+    {
+      "name": "fa slab-14050715 noindex preserved",
+      "passed": true
+    },
+    {
+      "name": "fa scrap-rates-14050714 contextual request",
+      "passed": true
+    },
+    {
+      "name": "fa scrap-rates-14050714 required quantity stays blank",
+      "passed": true
+    },
+    {
+      "name": "fa scrap-rates-14050714 noindex preserved",
+      "passed": true
+    },
+    {
+      "name": "fa generic fallback ",
+      "passed": true
+    },
+    {
+      "name": "fa generic fallback ?item=unknown",
+      "passed": true
+    },
+    {
+      "name": "fa generic fallback ?item=billet-3sp-14050715&item=slab-14050715",
+      "passed": true
+    },
+    {
+      "name": "fa generic fallback ?item=%3Cscript%3Ewindow.__inquiryInjected%3Dtrue%3C%2Fscript%3E",
+      "passed": true
+    },
+    {
+      "name": "fa all eight rates linked",
+      "passed": true
+    },
+    {
+      "name": "fa historical amount and unit",
+      "passed": true
+    },
+    {
+      "name": "fa language keeps selected product",
+      "passed": true
+    },
+    {
+      "name": "fa opens request form",
+      "passed": true
+    },
+    {
+      "name": "fa edited draft text roundtrip",
+      "passed": true
+    },
+    {
+      "name": "fa context layout 320",
+      "passed": true
+    },
+    {
+      "name": "fa context layout 375",
+      "passed": true
+    },
+    {
+      "name": "fa context layout 768",
+      "passed": true
+    },
+    {
+      "name": "fa context layout 1100",
+      "passed": true
+    },
+    {
+      "name": "fa context layout 1440",
+      "passed": true
+    },
+    {
+      "name": "en khavarshahr-14050714-1 contextual request",
+      "passed": true
+    },
+    {
+      "name": "en khavarshahr-14050714-1 required quantity stays blank",
+      "passed": true
+    },
+    {
+      "name": "en khavarshahr-14050714-1 noindex preserved",
+      "passed": true
+    },
+    {
+      "name": "en khavarshahr-14050714-2 contextual request",
+      "passed": true
+    },
+    {
+      "name": "en khavarshahr-14050714-2 required quantity stays blank",
+      "passed": true
+    },
+    {
+      "name": "en khavarshahr-14050714-2 noindex preserved",
+      "passed": true
+    },
+    {
+      "name": "en khavarshahr-14050714-3 contextual request",
+      "passed": true
+    },
+    {
+      "name": "en khavarshahr-14050714-3 required quantity stays blank",
+      "passed": true
+    },
+    {
+      "name": "en khavarshahr-14050714-3 noindex preserved",
+      "passed": true
+    },
+    {
+      "name": "en khavarshahr-14050714-4 contextual request",
+      "passed": true
+    },
+    {
+      "name": "en khavarshahr-14050714-4 required quantity stays blank",
+      "passed": true
+    },
+    {
+      "name": "en khavarshahr-14050714-4 noindex preserved",
+      "passed": true
+    },
+    {
+      "name": "en khavarshahr-14050714-5 contextual request",
+      "passed": true
+    },
+    {
+      "name": "en khavarshahr-14050714-5 required quantity stays blank",
+      "passed": true
+    },
+    {
+      "name": "en khavarshahr-14050714-5 noindex preserved",
+      "passed": true
+    },
+    {
+      "name": "en khavarshahr-14050714-6 contextual request",
+      "passed": true
+    },
+    {
+      "name": "en khavarshahr-14050714-6 required quantity stays blank",
+      "passed": true
+    },
+    {
+      "name": "en khavarshahr-14050714-6 noindex preserved",
+      "passed": true
+    },
+    {
+      "name": "en khavarshahr-14050714-7 contextual request",
+      "passed": true
+    },
+    {
+      "name": "en khavarshahr-14050714-7 required quantity stays blank",
+      "passed": true
+    },
+    {
+      "name": "en khavarshahr-14050714-7 noindex preserved",
+      "passed": true
+    },
+    {
+      "name": "en khavarshahr-14050714-8 contextual request",
+      "passed": true
+    },
+    {
+      "name": "en khavarshahr-14050714-8 required quantity stays blank",
+      "passed": true
+    },
+    {
+      "name": "en khavarshahr-14050714-8 noindex preserved",
+      "passed": true
+    },
+    {
+      "name": "en billet-3sp-14050715 contextual request",
+      "passed": true
+    },
+    {
+      "name": "en billet-3sp-14050715 required quantity stays blank",
+      "passed": true
+    },
+    {
+      "name": "en billet-3sp-14050715 noindex preserved",
+      "passed": true
+    },
+    {
+      "name": "en slab-14050715 contextual request",
+      "passed": true
+    },
+    {
+      "name": "en slab-14050715 required quantity stays blank",
+      "passed": true
+    },
+    {
+      "name": "en slab-14050715 noindex preserved",
+      "passed": true
+    },
+    {
+      "name": "en scrap-rates-14050714 contextual request",
+      "passed": true
+    },
+    {
+      "name": "en scrap-rates-14050714 required quantity stays blank",
+      "passed": true
+    },
+    {
+      "name": "en scrap-rates-14050714 noindex preserved",
+      "passed": true
+    },
+    {
+      "name": "en generic fallback ",
+      "passed": true
+    },
+    {
+      "name": "en generic fallback ?item=unknown",
+      "passed": true
+    },
+    {
+      "name": "en generic fallback ?item=billet-3sp-14050715&item=slab-14050715",
+      "passed": true
+    },
+    {
+      "name": "en generic fallback ?item=%3Cscript%3Ewindow.__inquiryInjected%3Dtrue%3C%2Fscript%3E",
+      "passed": true
+    },
+    {
+      "name": "en all eight rates linked",
+      "passed": true
+    },
+    {
+      "name": "en historical amount and unit",
+      "passed": true
+    },
+    {
+      "name": "en language keeps selected product",
+      "passed": true
+    },
+    {
+      "name": "en opens request form",
+      "passed": true
+    },
+    {
+      "name": "en edited draft text roundtrip",
+      "passed": true
+    },
+    {
+      "name": "en context layout 320",
+      "passed": true
+    },
+    {
+      "name": "en context layout 375",
+      "passed": true
+    },
+    {
+      "name": "en context layout 768",
+      "passed": true
+    },
+    {
+      "name": "en context layout 1100",
+      "passed": true
+    },
+    {
+      "name": "en context layout 1440",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "date": "2026-10-09",
+  "scope": "Contextual inquiry from eight price cards and three source announcements, both locales, production build",
+  "websitePublished": false
+}

@@ -45,7 +45,7 @@ export function ListingResults({ locale, kind, items }: Props) {
         <div><dt>{text.source}</dt><dd>{item.sourceUrl ? <a href={item.sourceUrl} target="_blank" rel="noopener noreferrer">{item.source[locale]} ({locale === "fa" ? "تب جدید" : "new tab"})</a> : item.source[locale]}</dd></div>
         <div><dt>{text.terms}</dt><dd>{item.terms[locale]}</dd></div>
       </dl>
-      <Link className="listing-inquiry" href={`/${locale}/inquiry`}>{text.inquiry}</Link>
+      <Link className="listing-inquiry" href={`/${locale}/inquiry?item=${encodeURIComponent(item.id)}#request-template`}>{text.inquiry}</Link>
     </article>)}</div> : <div className="listing-empty"><h2>{items.length ? text.noResults : text.emptyTitle}</h2><p>{items.length ? text.noResultsHelp : kind === "inventory" ? text.emptyInventory : text.emptyPrices}</p><div className="listing-empty-links"><Link href={`/${locale}/inquiry`}>{text.inquiry}</Link><Link href={`/${locale}/contact`}>{text.contact}</Link></div></div>}
   </section>;
 }
