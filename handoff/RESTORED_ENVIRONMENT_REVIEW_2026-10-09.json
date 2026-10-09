@@ -1,0 +1,91 @@
+{
+  "checkedAt": "2026-10-09T07:28:42.736953+03:30",
+  "commitUnderTest": "9b7e1f5",
+  "mode": "Restored published cloud environment; production next start using retained build",
+  "routes": [
+    "/en",
+    "/en/about",
+    "/en/clients",
+    "/en/contact",
+    "/en/erp",
+    "/en/inquiry",
+    "/en/inventory",
+    "/en/khavarshahr",
+    "/en/market",
+    "/en/prices",
+    "/en/products",
+    "/en/scrap",
+    "/en/sell-scrap",
+    "/fa",
+    "/fa/about",
+    "/fa/clients",
+    "/fa/contact",
+    "/fa/erp",
+    "/fa/inquiry",
+    "/fa/inventory",
+    "/fa/khavarshahr",
+    "/fa/market",
+    "/fa/prices",
+    "/fa/products",
+    "/fa/scrap",
+    "/fa/sell-scrap"
+  ],
+  "widths": [
+    320,
+    375,
+    768,
+    1100,
+    1440
+  ],
+  "observations": 130,
+  "checks": [
+    "HTTP 200",
+    "No horizontal page overflow",
+    "All document images loaded",
+    "One h1 per page",
+    "Nonempty title",
+    "Correct html lang"
+  ],
+  "errors": [],
+  "failures": [],
+  "interactions": [
+    {
+      "name": "fa menu opens",
+      "passed": true
+    },
+    {
+      "name": "fa Escape closes and restores focus",
+      "passed": true
+    },
+    {
+      "name": "fa clipboard contains edited request",
+      "passed": true
+    },
+    {
+      "name": "fa language preserves query and hash",
+      "passed": true
+    },
+    {
+      "name": "en menu opens",
+      "passed": true
+    },
+    {
+      "name": "en Escape closes and restores focus",
+      "passed": true
+    },
+    {
+      "name": "en clipboard contains edited request",
+      "passed": true
+    },
+    {
+      "name": "en language preserves query and hash",
+      "passed": true
+    }
+  ],
+  "clientLogoHashes": "12/12 match retained source manifest",
+  "limitations": [
+    "No new build was necessary: source and retained production build correspond to unchanged 9b7e1f5.",
+    "These checks do not validate real business data or online submission; inquiry currently copies text only.",
+    "No website deployment performed."
+  ]
+}
