@@ -1,0 +1,14 @@
+import Link from "next/link";
+import type { SupportedLocale } from "@kavian/config";
+import { marketPrices } from "./prices";
+import "./market-sources.css";
+
+export function MarketPrices({ locale }: { locale: SupportedLocale }) {
+  const fa = locale === "fa";
+  return <section id="market-reference-rates" className="container source-section" aria-labelledby="market-reference-title">
+    <div className="source-heading"><div><p className="home-eyebrow">{fa ? "اصفهان‌آهن — نرخ فروش بازار" : "Esfahan Ahan — market selling rates"}</p><h2 id="market-reference-title">{fa ? "نرخ‌های مرجع محصولات فولادی" : "Steel product reference rates"}</h2></div><Link className="source-internal-link" href={`/${locale}/market#market-news`}>{fa ? "گزارش‌های بازار" : "Market reports"}</Link></div>
+    <p className="source-notice">{fa ? "استخراج و بررسی: ۱۷ مهر ۱۴۰۵. هر کارت تاریخ جدول ناشر را دارد؛ این نرخ‌ها پیشنهاد کاویان یا موجودی قطعی نیستند و به‌روزرسانی خودکار ندارند. نرخ خرید ضایعات انبار در بخش جداگانهٔ پایین آمده است." : "Captured and reviewed on 9 October 2026. Each card retains its source table’s date. These are not Kavian offers or confirmed stock, and do not update automatically. Warehouse scrap purchase rates appear separately below."}</p>
+    <div className="source-grid">{marketPrices.map(item => <article className="source-card source-price-card" key={item.id} data-price-id={item.id}><p className="source-meta">{item.source[locale]} · <time dateTime={item.updatedAt}>{new Intl.DateTimeFormat(fa ? "fa-IR" : "en-GB", { dateStyle: "medium", timeZone: "Asia/Tehran" }).format(new Date(item.updatedAt))}</time> · <bdi>{item.sourceTime}</bdi> {fa ? "ساعت منبع" : "source time"}</p><h3>{item.name[locale]}</h3><p>{item.specifications[locale]}</p><p className="source-price">{new Intl.NumberFormat(locale).format(item.amount)} <span>{fa ? "ریال / کیلوگرم" : "IRR / kg"}</span></p><p>{fa ? "شامل ۱۰٪ مالیات ارزش افزوده" : "Includes 10% VAT"}</p><p className="source-detail-note">{fa ? "محل تحویل در منبع: " : "Source delivery location: "}{item.location[locale]}</p><div className="source-actions"><a href={item.sourceUrl} target="_blank" rel="noopener noreferrer">{fa ? "قیمت در منبع (تب جدید)" : "Source price (new tab)"}</a><Link className="source-internal-link" href={`/${locale}/inquiry?item=${item.id}#request-template`}>{fa ? "استعلام این مشخصات از کاویان" : "Ask Kavian about these specifications"}</Link></div></article>)}</div>
+    <p className="source-detail-note">{fa ? "تاریخ تیتر بعضی صفحات ناشر با تاریخ جدول متفاوت بود؛ تاریخ جدول همان کالا مبنا قرار گرفت. هزینهٔ حمل و شرایط تسویه باید جداگانه بررسی شوند." : "Some source page headlines had a different date from their tables; the relevant table’s date is retained. Check freight and settlement terms separately."}</p>
+  </section>;
+}

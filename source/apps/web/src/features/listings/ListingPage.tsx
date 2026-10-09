@@ -1,3 +1,4 @@
+import { MarketPrices } from "@/features/market-sources/MarketPrices";
 import { CompanyAnnouncements } from "@/features/announcements/CompanyAnnouncements";
 import { WarehousePurchaseSummary } from "@/components/shared/WarehousePurchaseSummary";
 import type { SupportedLocale } from "@kavian/config";
@@ -15,6 +16,7 @@ export function ListingPage({ locale, kind }: { locale: SupportedLocale; kind: "
   const text = listingContent[locale];
   return <main className="home-page">
     <section className="container market-hero"><p className="home-eyebrow">{text.eyebrow}</p><h1>{text[kind]}</h1><p>{kind === "inventory" ? text.inventoryIntro : text.pricesIntro}</p><p className="listing-notice">{text.note}</p></section>
+    {kind === "prices" && <MarketPrices locale={locale} />}
     {kind === "prices" && <div className="container"><WarehousePurchaseSummary locale={locale} full /></div>}
     {kind === "inventory" ? <ListingResults locale={locale} kind="inventory" items={validateInventory(inventoryItems)} /> : <ListingResults locale={locale} kind="prices" items={validatePrices(priceItems)} />}
     {kind === "prices" && <CompanyAnnouncements locale={locale} kind="rates" />}

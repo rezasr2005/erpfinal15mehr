@@ -1,3 +1,4 @@
+import { MarketNews } from "@/features/market-sources/MarketNews";
 import { ArrowIcon } from "@/components/shared/ArrowIcon";
 import Link from "next/link";
 import type { SupportedLocale } from "@kavian/config";
@@ -21,6 +22,7 @@ export function HomePage({ locale }: { locale: SupportedLocale }) {
       </div>
     </section>
     <section id="home-market" className="container home-section" aria-labelledby="market-title"><p className="home-eyebrow">{market.title}</p><div className="home-section-heading"><h2 id="market-title">{market.heading}</h2><p>{market.intro}</p></div><MarketCards locale={locale} /></section>
+    <MarketNews locale={locale} compact />
     <section className="home-erp"><div className="container home-section home-about"><div><p className="home-eyebrow">{market.erpLabel}</p><h2>{market.erpTitle}</h2></div><div><p className="about-description">{market.erpText}</p><HomeLink href={href("/erp")}>{market.erpLink}</HomeLink></div></div></section>
     <section id="home-sectors" className="container home-section" aria-labelledby="sectors-title">
       <p className="home-eyebrow">{text.sectorLabel}</p><div className="home-section-heading"><h2 id="sectors-title">{text.sectorTitle}</h2><p>{text.sectorText}</p></div>

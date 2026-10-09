@@ -1,0 +1,463 @@
+{
+  "checks": [
+    {
+      "name": "fa seven external prices",
+      "passed": true
+    },
+    {
+      "name": "fa original eight purchase cards preserved",
+      "passed": true
+    },
+    {
+      "name": "fa no automatic claim",
+      "passed": true
+    },
+    {
+      "name": "fa esfahan-rebar-14 unit and tax",
+      "passed": true
+    },
+    {
+      "name": "fa esfahan-rebar-14 source link",
+      "passed": true
+    },
+    {
+      "name": "fa esfahan-rebar-16 unit and tax",
+      "passed": true
+    },
+    {
+      "name": "fa esfahan-rebar-16 source link",
+      "passed": true
+    },
+    {
+      "name": "fa esfahan-rebar-18 unit and tax",
+      "passed": true
+    },
+    {
+      "name": "fa esfahan-rebar-18 source link",
+      "passed": true
+    },
+    {
+      "name": "fa esfahan-sheet-roll-2 unit and tax",
+      "passed": true
+    },
+    {
+      "name": "fa esfahan-sheet-roll-2 source link",
+      "passed": true
+    },
+    {
+      "name": "fa esfahan-sheet-cut-2 unit and tax",
+      "passed": true
+    },
+    {
+      "name": "fa esfahan-sheet-cut-2 source link",
+      "passed": true
+    },
+    {
+      "name": "fa esfahan-dri-golgohar unit and tax",
+      "passed": true
+    },
+    {
+      "name": "fa esfahan-dri-golgohar source link",
+      "passed": true
+    },
+    {
+      "name": "fa esfahan-dri-baft unit and tax",
+      "passed": true
+    },
+    {
+      "name": "fa esfahan-dri-baft source link",
+      "passed": true
+    },
+    {
+      "name": "fa actual price CTA tax retained",
+      "passed": true
+    },
+    {
+      "name": "fa esfahan-rebar-14 sourced inquiry",
+      "passed": true
+    },
+    {
+      "name": "fa esfahan-rebar-14 quantity blank",
+      "passed": true
+    },
+    {
+      "name": "fa esfahan-rebar-16 sourced inquiry",
+      "passed": true
+    },
+    {
+      "name": "fa esfahan-rebar-16 quantity blank",
+      "passed": true
+    },
+    {
+      "name": "fa esfahan-rebar-18 sourced inquiry",
+      "passed": true
+    },
+    {
+      "name": "fa esfahan-rebar-18 quantity blank",
+      "passed": true
+    },
+    {
+      "name": "fa esfahan-sheet-roll-2 sourced inquiry",
+      "passed": true
+    },
+    {
+      "name": "fa esfahan-sheet-roll-2 quantity blank",
+      "passed": true
+    },
+    {
+      "name": "fa esfahan-sheet-cut-2 sourced inquiry",
+      "passed": true
+    },
+    {
+      "name": "fa esfahan-sheet-cut-2 quantity blank",
+      "passed": true
+    },
+    {
+      "name": "fa esfahan-dri-golgohar sourced inquiry",
+      "passed": true
+    },
+    {
+      "name": "fa esfahan-dri-golgohar quantity blank",
+      "passed": true
+    },
+    {
+      "name": "fa esfahan-dri-baft sourced inquiry",
+      "passed": true
+    },
+    {
+      "name": "fa esfahan-dri-baft quantity blank",
+      "passed": true
+    },
+    {
+      "name": "fa four market reports",
+      "passed": true
+    },
+    {
+      "name": "fa publisher date discrepancy visible",
+      "passed": true
+    },
+    {
+      "name": "fa exact news sources",
+      "passed": true
+    },
+    {
+      "name": "fa two home news previews",
+      "passed": true
+    },
+    {
+      "name": "fa  width 320",
+      "passed": true
+    },
+    {
+      "name": "fa market width 320",
+      "passed": true
+    },
+    {
+      "name": "fa prices width 320",
+      "passed": true
+    },
+    {
+      "name": "fa inquiry?item=esfahan-rebar-14#request-template width 320",
+      "passed": true
+    },
+    {
+      "name": "fa  width 375",
+      "passed": true
+    },
+    {
+      "name": "fa market width 375",
+      "passed": true
+    },
+    {
+      "name": "fa prices width 375",
+      "passed": true
+    },
+    {
+      "name": "fa inquiry?item=esfahan-rebar-14#request-template width 375",
+      "passed": true
+    },
+    {
+      "name": "fa  width 768",
+      "passed": true
+    },
+    {
+      "name": "fa market width 768",
+      "passed": true
+    },
+    {
+      "name": "fa prices width 768",
+      "passed": true
+    },
+    {
+      "name": "fa inquiry?item=esfahan-rebar-14#request-template width 768",
+      "passed": true
+    },
+    {
+      "name": "fa  width 1100",
+      "passed": true
+    },
+    {
+      "name": "fa market width 1100",
+      "passed": true
+    },
+    {
+      "name": "fa prices width 1100",
+      "passed": true
+    },
+    {
+      "name": "fa inquiry?item=esfahan-rebar-14#request-template width 1100",
+      "passed": true
+    },
+    {
+      "name": "fa  width 1440",
+      "passed": true
+    },
+    {
+      "name": "fa market width 1440",
+      "passed": true
+    },
+    {
+      "name": "fa prices width 1440",
+      "passed": true
+    },
+    {
+      "name": "fa inquiry?item=esfahan-rebar-14#request-template width 1440",
+      "passed": true
+    },
+    {
+      "name": "en seven external prices",
+      "passed": true
+    },
+    {
+      "name": "en original eight purchase cards preserved",
+      "passed": true
+    },
+    {
+      "name": "en no automatic claim",
+      "passed": true
+    },
+    {
+      "name": "en esfahan-rebar-14 unit and tax",
+      "passed": true
+    },
+    {
+      "name": "en esfahan-rebar-14 source link",
+      "passed": true
+    },
+    {
+      "name": "en esfahan-rebar-16 unit and tax",
+      "passed": true
+    },
+    {
+      "name": "en esfahan-rebar-16 source link",
+      "passed": true
+    },
+    {
+      "name": "en esfahan-rebar-18 unit and tax",
+      "passed": true
+    },
+    {
+      "name": "en esfahan-rebar-18 source link",
+      "passed": true
+    },
+    {
+      "name": "en esfahan-sheet-roll-2 unit and tax",
+      "passed": true
+    },
+    {
+      "name": "en esfahan-sheet-roll-2 source link",
+      "passed": true
+    },
+    {
+      "name": "en esfahan-sheet-cut-2 unit and tax",
+      "passed": true
+    },
+    {
+      "name": "en esfahan-sheet-cut-2 source link",
+      "passed": true
+    },
+    {
+      "name": "en esfahan-dri-golgohar unit and tax",
+      "passed": true
+    },
+    {
+      "name": "en esfahan-dri-golgohar source link",
+      "passed": true
+    },
+    {
+      "name": "en esfahan-dri-baft unit and tax",
+      "passed": true
+    },
+    {
+      "name": "en esfahan-dri-baft source link",
+      "passed": true
+    },
+    {
+      "name": "en actual price CTA tax retained",
+      "passed": true
+    },
+    {
+      "name": "en esfahan-rebar-14 sourced inquiry",
+      "passed": true
+    },
+    {
+      "name": "en esfahan-rebar-14 quantity blank",
+      "passed": true
+    },
+    {
+      "name": "en esfahan-rebar-16 sourced inquiry",
+      "passed": true
+    },
+    {
+      "name": "en esfahan-rebar-16 quantity blank",
+      "passed": true
+    },
+    {
+      "name": "en esfahan-rebar-18 sourced inquiry",
+      "passed": true
+    },
+    {
+      "name": "en esfahan-rebar-18 quantity blank",
+      "passed": true
+    },
+    {
+      "name": "en esfahan-sheet-roll-2 sourced inquiry",
+      "passed": true
+    },
+    {
+      "name": "en esfahan-sheet-roll-2 quantity blank",
+      "passed": true
+    },
+    {
+      "name": "en esfahan-sheet-cut-2 sourced inquiry",
+      "passed": true
+    },
+    {
+      "name": "en esfahan-sheet-cut-2 quantity blank",
+      "passed": true
+    },
+    {
+      "name": "en esfahan-dri-golgohar sourced inquiry",
+      "passed": true
+    },
+    {
+      "name": "en esfahan-dri-golgohar quantity blank",
+      "passed": true
+    },
+    {
+      "name": "en esfahan-dri-baft sourced inquiry",
+      "passed": true
+    },
+    {
+      "name": "en esfahan-dri-baft quantity blank",
+      "passed": true
+    },
+    {
+      "name": "en four market reports",
+      "passed": true
+    },
+    {
+      "name": "en publisher date discrepancy visible",
+      "passed": true
+    },
+    {
+      "name": "en exact news sources",
+      "passed": true
+    },
+    {
+      "name": "en two home news previews",
+      "passed": true
+    },
+    {
+      "name": "en  width 320",
+      "passed": true
+    },
+    {
+      "name": "en market width 320",
+      "passed": true
+    },
+    {
+      "name": "en prices width 320",
+      "passed": true
+    },
+    {
+      "name": "en inquiry?item=esfahan-rebar-14#request-template width 320",
+      "passed": true
+    },
+    {
+      "name": "en  width 375",
+      "passed": true
+    },
+    {
+      "name": "en market width 375",
+      "passed": true
+    },
+    {
+      "name": "en prices width 375",
+      "passed": true
+    },
+    {
+      "name": "en inquiry?item=esfahan-rebar-14#request-template width 375",
+      "passed": true
+    },
+    {
+      "name": "en  width 768",
+      "passed": true
+    },
+    {
+      "name": "en market width 768",
+      "passed": true
+    },
+    {
+      "name": "en prices width 768",
+      "passed": true
+    },
+    {
+      "name": "en inquiry?item=esfahan-rebar-14#request-template width 768",
+      "passed": true
+    },
+    {
+      "name": "en  width 1100",
+      "passed": true
+    },
+    {
+      "name": "en market width 1100",
+      "passed": true
+    },
+    {
+      "name": "en prices width 1100",
+      "passed": true
+    },
+    {
+      "name": "en inquiry?item=esfahan-rebar-14#request-template width 1100",
+      "passed": true
+    },
+    {
+      "name": "en  width 1440",
+      "passed": true
+    },
+    {
+      "name": "en market width 1440",
+      "passed": true
+    },
+    {
+      "name": "en prices width 1440",
+      "passed": true
+    },
+    {
+      "name": "en inquiry?item=esfahan-rebar-14#request-template width 1440",
+      "passed": true
+    },
+    {
+      "name": "no JavaScript errors",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "date": "2026-10-09",
+  "selectedExternalPriceCount": 7,
+  "selectedNewsCount": 4,
+  "existingInquiryRegressionChecks": 94,
+  "sourcePriceVerification": "All seven amounts, IRR/kg units, 10% VAT labels, source links and table dates matched captured source evidence.",
+  "websitePublished": false
+}
