@@ -1,0 +1,844 @@
+{
+  "results": [
+    {
+      "locale": "fa",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "companies": 12,
+      "logos": [
+        {
+          "src": "/_next/image?url=%2Fclients%2Fhamoun-nyzeh.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 83
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fsudico.jpg&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 85
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Ffooladsazan-jam.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 42
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Firan-tractor.jpg&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 88
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fmachine-sazi-tabriz.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 69
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fghaltaksazan-sepahan.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 25
+        },
+        {
+          "src": "/clients/mazandaran-steel.svg",
+          "loaded": true,
+          "width": 300,
+          "height": 84
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fkavir-damghan.jpg&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 88
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fpeyman-profile-asia.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 71
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fmahan-alloy-pars.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 26
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fqazvin-kelach.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 11
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Ftabarestan-steel-foundry.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 28
+        }
+      ],
+      "noindex": "noindex, follow",
+      "dir": "rtl"
+    },
+    {
+      "locale": "fa",
+      "width": 375,
+      "status": 200,
+      "overflow": false,
+      "companies": 12,
+      "logos": [
+        {
+          "src": "/_next/image?url=%2Fclients%2Fhamoun-nyzeh.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 83
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fsudico.jpg&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 85
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Ffooladsazan-jam.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 42
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Firan-tractor.jpg&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 88
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fmachine-sazi-tabriz.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 69
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fghaltaksazan-sepahan.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 25
+        },
+        {
+          "src": "/clients/mazandaran-steel.svg",
+          "loaded": true,
+          "width": 300,
+          "height": 84
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fkavir-damghan.jpg&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 88
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fpeyman-profile-asia.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 71
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fmahan-alloy-pars.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 26
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fqazvin-kelach.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 11
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Ftabarestan-steel-foundry.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 28
+        }
+      ],
+      "noindex": "noindex, follow",
+      "dir": "rtl"
+    },
+    {
+      "locale": "fa",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "companies": 12,
+      "logos": [
+        {
+          "src": "/_next/image?url=%2Fclients%2Fhamoun-nyzeh.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 83
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fsudico.jpg&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 85
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Ffooladsazan-jam.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 42
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Firan-tractor.jpg&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 88
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fmachine-sazi-tabriz.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 69
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fghaltaksazan-sepahan.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 25
+        },
+        {
+          "src": "/clients/mazandaran-steel.svg",
+          "loaded": true,
+          "width": 300,
+          "height": 84
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fkavir-damghan.jpg&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 88
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fpeyman-profile-asia.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 71
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fmahan-alloy-pars.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 26
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fqazvin-kelach.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 11
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Ftabarestan-steel-foundry.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 28
+        }
+      ],
+      "noindex": "noindex, follow",
+      "dir": "rtl"
+    },
+    {
+      "locale": "fa",
+      "width": 1100,
+      "status": 200,
+      "overflow": false,
+      "companies": 12,
+      "logos": [
+        {
+          "src": "/_next/image?url=%2Fclients%2Fhamoun-nyzeh.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 83
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fsudico.jpg&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 85
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Ffooladsazan-jam.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 42
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Firan-tractor.jpg&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 88
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fmachine-sazi-tabriz.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 69
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fghaltaksazan-sepahan.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 25
+        },
+        {
+          "src": "/clients/mazandaran-steel.svg",
+          "loaded": true,
+          "width": 300,
+          "height": 84
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fkavir-damghan.jpg&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 88
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fpeyman-profile-asia.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 71
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fmahan-alloy-pars.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 26
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fqazvin-kelach.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 11
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Ftabarestan-steel-foundry.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 28
+        }
+      ],
+      "noindex": "noindex, follow",
+      "dir": "rtl"
+    },
+    {
+      "locale": "fa",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "companies": 12,
+      "logos": [
+        {
+          "src": "/_next/image?url=%2Fclients%2Fhamoun-nyzeh.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 83
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fsudico.jpg&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 85
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Ffooladsazan-jam.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 42
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Firan-tractor.jpg&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 88
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fmachine-sazi-tabriz.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 69
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fghaltaksazan-sepahan.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 25
+        },
+        {
+          "src": "/clients/mazandaran-steel.svg",
+          "loaded": true,
+          "width": 300,
+          "height": 84
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fkavir-damghan.jpg&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 88
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fpeyman-profile-asia.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 71
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fmahan-alloy-pars.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 26
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fqazvin-kelach.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 11
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Ftabarestan-steel-foundry.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 28
+        }
+      ],
+      "noindex": "noindex, follow",
+      "dir": "rtl"
+    },
+    {
+      "locale": "en",
+      "width": 320,
+      "status": 200,
+      "overflow": false,
+      "companies": 12,
+      "logos": [
+        {
+          "src": "/_next/image?url=%2Fclients%2Fhamoun-nyzeh.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 83
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fsudico.jpg&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 85
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Ffooladsazan-jam.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 42
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Firan-tractor.jpg&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 88
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fmachine-sazi-tabriz.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 69
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fghaltaksazan-sepahan.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 25
+        },
+        {
+          "src": "/clients/mazandaran-steel.svg",
+          "loaded": true,
+          "width": 300,
+          "height": 84
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fkavir-damghan.jpg&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 88
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fpeyman-profile-asia.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 71
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fmahan-alloy-pars.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 26
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fqazvin-kelach.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 11
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Ftabarestan-steel-foundry.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 28
+        }
+      ],
+      "noindex": "noindex, follow",
+      "dir": "ltr"
+    },
+    {
+      "locale": "en",
+      "width": 375,
+      "status": 200,
+      "overflow": false,
+      "companies": 12,
+      "logos": [
+        {
+          "src": "/_next/image?url=%2Fclients%2Fhamoun-nyzeh.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 83
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fsudico.jpg&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 85
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Ffooladsazan-jam.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 42
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Firan-tractor.jpg&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 88
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fmachine-sazi-tabriz.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 69
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fghaltaksazan-sepahan.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 25
+        },
+        {
+          "src": "/clients/mazandaran-steel.svg",
+          "loaded": true,
+          "width": 300,
+          "height": 84
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fkavir-damghan.jpg&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 88
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fpeyman-profile-asia.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 71
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fmahan-alloy-pars.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 26
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fqazvin-kelach.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 11
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Ftabarestan-steel-foundry.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 28
+        }
+      ],
+      "noindex": "noindex, follow",
+      "dir": "ltr"
+    },
+    {
+      "locale": "en",
+      "width": 768,
+      "status": 200,
+      "overflow": false,
+      "companies": 12,
+      "logos": [
+        {
+          "src": "/_next/image?url=%2Fclients%2Fhamoun-nyzeh.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 83
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fsudico.jpg&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 85
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Ffooladsazan-jam.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 42
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Firan-tractor.jpg&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 88
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fmachine-sazi-tabriz.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 69
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fghaltaksazan-sepahan.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 25
+        },
+        {
+          "src": "/clients/mazandaran-steel.svg",
+          "loaded": true,
+          "width": 300,
+          "height": 84
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fkavir-damghan.jpg&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 88
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fpeyman-profile-asia.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 71
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fmahan-alloy-pars.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 26
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fqazvin-kelach.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 11
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Ftabarestan-steel-foundry.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 28
+        }
+      ],
+      "noindex": "noindex, follow",
+      "dir": "ltr"
+    },
+    {
+      "locale": "en",
+      "width": 1100,
+      "status": 200,
+      "overflow": false,
+      "companies": 12,
+      "logos": [
+        {
+          "src": "/_next/image?url=%2Fclients%2Fhamoun-nyzeh.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 83
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fsudico.jpg&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 85
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Ffooladsazan-jam.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 42
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Firan-tractor.jpg&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 88
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fmachine-sazi-tabriz.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 69
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fghaltaksazan-sepahan.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 25
+        },
+        {
+          "src": "/clients/mazandaran-steel.svg",
+          "loaded": true,
+          "width": 300,
+          "height": 84
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fkavir-damghan.jpg&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 88
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fpeyman-profile-asia.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 71
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fmahan-alloy-pars.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 26
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fqazvin-kelach.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 11
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Ftabarestan-steel-foundry.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 28
+        }
+      ],
+      "noindex": "noindex, follow",
+      "dir": "ltr"
+    },
+    {
+      "locale": "en",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "companies": 12,
+      "logos": [
+        {
+          "src": "/_next/image?url=%2Fclients%2Fhamoun-nyzeh.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 83
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fsudico.jpg&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 85
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Ffooladsazan-jam.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 42
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Firan-tractor.jpg&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 88
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fmachine-sazi-tabriz.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 69
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fghaltaksazan-sepahan.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 25
+        },
+        {
+          "src": "/clients/mazandaran-steel.svg",
+          "loaded": true,
+          "width": 300,
+          "height": 84
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fkavir-damghan.jpg&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 88
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fpeyman-profile-asia.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 71
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fmahan-alloy-pars.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 26
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Fqazvin-kelach.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 11
+        },
+        {
+          "src": "/_next/image?url=%2Fclients%2Ftabarestan-steel-foundry.png&w=3840&q=75",
+          "loaded": true,
+          "width": 88,
+          "height": 28
+        }
+      ],
+      "noindex": "noindex, follow",
+      "dir": "ltr"
+    }
+  ],
+  "errors": [],
+  "checkedAtUtc": "2026-10-09T02:19:04.134588+00:00",
+  "mode": "production next start after successful build",
+  "checks": {
+    "frozenInstall": "passed, pnpm 11.19.0 / Node 24.19.0",
+    "build": "passed, 31 static pages",
+    "typecheck": "passed",
+    "lint": "passed",
+    "sourceHashes": "12/12 passed"
+  }
+}
